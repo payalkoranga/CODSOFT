@@ -1,10 +1,10 @@
 # Credit Card Fraud Detection
 
-#Overview
+Overview
 
 This project builds a Machine Learning model to detect fraud credit card transactions. The model is trained on historical transaction data to classify transactions as either **Fraudulent** or **Legitimate**.
 
-#Dataset
+Dataset
 
 Credit Card Transactions Fraud Detection Dataset
 
@@ -13,7 +13,7 @@ https://www.kaggle.com/datasets/kartik2112/fraud-detection
 
 *Note:* The dataset is not included in this repository because the CSV files exceed GitHub's upload size limit. Please download the dataset from the Kaggle link above and place the CSV files in the project folder before running the notebook.
 
-##Technologies Used
+#Technologies Used
 - Python
 - Pandas
 - NumPy
