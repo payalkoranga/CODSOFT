@@ -30,5 +30,3 @@ IMDb Genre Classification Dataset
 - description.txt – Sample movie descriptions.
 - movie_genre_predictions.csv – Predicted genres.
 
-## Author
-Payal Koranga
